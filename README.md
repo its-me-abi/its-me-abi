@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abi
 - 👀 I’m interested in python and cybersecurity
-- ⚡ Fun fact: became engineer without engineering 
 
 <!---
 its-me-abi/its-me-abi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
