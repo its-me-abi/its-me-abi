@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abi
 - 👀 I’m interested in python and cybersecurity
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-me-abi
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-me-abi)
 
 
 <!---
