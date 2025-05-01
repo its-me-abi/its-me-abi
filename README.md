@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abi
+- 👋 Hi, I’m @abi from gods own country
 - 👀 I’m interested in python and cybersecurity ,science art and everything
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-me-abi)
