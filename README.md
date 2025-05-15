@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abilash  from gods own country, i live in village in kerala.
+- 👋 Hi, I’m @abilash  from gods own country,
 - 👀 I’m interested in python , cybersecurity ,science ,drawing and music
 - ✨ My formal education ended at the age of 16, but I kept learning on my own. these projects are result of it
 
