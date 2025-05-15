@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @abilash  from gods own country, i live in village of kerala.
-- my education broken at the age of 17 but i didnt stop learning. 
-- 👀 I’m interested in python , compilers , cybersecurity ,science art and everything else,
-- 
+- 👋 Hi, I’m @abilash  from gods own country, i live in village in kerala.
+- My formal education ended at the age of 16, but I kept learning on my own. these projects are result of it
+- 👀 I’m interested in python , cybersecurity ,science ,drawing and music
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-me-abi)
 
