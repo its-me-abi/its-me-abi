@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @abi from gods own country
-- 👀 I’m interested in python and cybersecurity ,science art and everything
+- 👀 I’m interested in python and cybersecurity ,science art and everything , 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-me-abi)
+
+![undergraduate-certificate-cybersecurity](https://github.com/user-attachments/assets/c6f4f2d2-5186-4adf-9c26-e3a3fe27e4d0)
 
 
 <!---
