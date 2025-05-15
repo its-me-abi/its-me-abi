@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @abi from gods own country
-- 👀 I’m interested in python and cybersecurity ,science art and everything , 
+- 👋 Hi, I’m @abilash  from gods own country, i live in village of kerala.
+- my education broken at the age of 17 but i didnt stop learning. 
+- 👀 I’m interested in python , compilers , cybersecurity ,science art and everything else,
+- 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=its-me-abi)
 
